@@ -7,6 +7,7 @@
 ### Conteúdo
 
 - [x] MobX
+- [x] Provider
 
 ### Tecnologias
 
